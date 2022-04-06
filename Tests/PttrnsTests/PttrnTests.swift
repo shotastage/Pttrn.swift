@@ -1,5 +1,5 @@
 import XCTest
-@testable import Pttrn
+@testable import Pttrns
 
 final class PttrnTests: XCTestCase {
     func testExample() throws {
